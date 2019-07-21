@@ -1,0 +1,12 @@
+1 Make Server on Sql server 
+2 Run Script 
+3 open dist and run Hospital ManagementSystem
+
+enjoy
+
+
+Server Name :HSM
+        UserName   Password
+Admin  (admin    :  admin)
+Rep    (rep      :  rep)
+Admin  (doctor    :  doctor)
